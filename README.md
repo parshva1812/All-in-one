@@ -1,4 +1,4 @@
-# All-in-One(FM) 🎶🎵🎼
+# All-in-One
 
 A new Flutter application.👤<br/>
 I kept the Interface very Simple.🙂<br/>
