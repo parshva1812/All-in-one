@@ -8,38 +8,43 @@ Building this Application with the intention of learning flutter better.🚴<br/
 This repo also contains the apk file 📱 too (link below).<br/>
 Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 
-# Screenshots:-
-|Main Screen|Playing Songs|All Playlist|Edit Playlist songs|
-:-------:|:-------:|:-------:|:-----:
-<img src="https://github.com/Tushargupta9800/flutter_music_player/blob/master/Screenshots/Screenshot1.jpg" height="350em" />|<img src="https://github.com/Tushargupta9800/flutter_music_player/blob/master/Screenshots/Screenshot5.jpeg" height="350em" />|<img src="https://github.com/Tushargupta9800/flutter_music_player/blob/master/Screenshots/Screenshot3.jpg" height="350em" />|<img src="https://github.com/Tushargupta9800/flutter_music_player/blob/master/Screenshots/Screenshot4.jpg" height="350em" />|
+
 
 |Notifications|
 :-------:
-<img src="https://github.com/Tushargupta9800/flutter_music_player/blob/master/Screenshots/Screenshot6.jpg" height="350em" />|
 
 # Features:-
-1) Load all the songs from the device.👌
-2) Play ▶ and pause ⏸ the music.
-3) Play next ⏩ and prev ⏪ song in 1️⃣ click.
-4) seek to 🔟 seconds forward or backward in 1️⃣ click.
-5) Play ▶ the songs in Shuffle 🔀 order.
-6) Play the songs in background. ❤
-7) Change the song from notifications. 🙊
-8) enjoy the music even when the phone screen is off. 🙈
-9) You can make your own playlist(As many as you want 😱).
-10) You can edit 🐱‍🏍 your own playlist songs.
-11) You can delete 🗑 your own playlist.
-12) Contains Splash Screen. ✔
+1 .open Camera & click image
+2. speech to text
+3. Text to speech
+4. Google map
+5. Audio player
 
-# Download the Apk file here:-
 
-[feelmusic.apk](https://github.com/Tushargupta9800/flutter_music_player/blob/master/feelmusic.apk)
+
+
 
 # Dependencies used:-
-1) deepmusicfinder:
-2) permission_handler: ^4.2.0+hotfix.3
-3) audioplayers:
-4) flutter_media_notification:
+  cupertino_icons: ^0.1.3
+  deepmusicfinder:
+  permission_handler: ^4.2.0+hotfix.3
+  flutter_media_notification:
+  audioplayers:
+
+
+  camera: ^0.5.2+1
+  path_provider: ^1.1.1
+  path: ^1.6.2
+  esys_flutter_share: ^1.0.2
+  flutter_tts:
+  flutter_text_to_speech: ^3.0.7
+  speech_to_text: ^3.2.0
+  google_maps_flutter: ^0.5.21
+  flutter_svg: ^0.20.0-nullsafety
+  wave_progress_bars: ^0.1.0
+  local_auth: ^0.5.2+3
+  get_it: ^1.0.3+2
+  flutter_lock_screen: '^1.0.8'
 
 # Android Permissions used:-
 1) uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
@@ -52,30 +57,6 @@ Do not hesitate to raise the issue if you find any bug(S).🤞<br/>
 
 ## Note:- All the above bug(s) surely will be fixed in the future update(s)... <br/>
 
-### LICENSE
-
-```
-MIT License
-
-Copyright (c) 2020 Tushar Gupta
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 ```
 
